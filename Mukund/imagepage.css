@@ -1,0 +1,13 @@
+.jumbotron{
+  font-family: 'Mansalva', cursive;
+  text-align: center;
+  background-color: rgba(244,200,100,0.6);
+  p-top=auto;
+}
+.row{
+  border style=dotted;
+}
+}
+body{
+  background-color:white;
+}
